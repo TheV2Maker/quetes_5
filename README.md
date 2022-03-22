@@ -1,3 +1,4 @@
+LOCAL
 # quetes_5
 
 Quete numero 5:
